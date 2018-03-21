@@ -1,5 +1,1 @@
-const ohHey = "Hello World";
-
-console.log(ohHey);
-
-console.log("Hey Tiff")
+console.log("ready")
